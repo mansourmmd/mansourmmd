@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Doftwere developr<br>Designer</p>
+<p align="left">Softwere developer<br>Designer</p>
 
 ###
 
